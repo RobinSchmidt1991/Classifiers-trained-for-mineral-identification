@@ -1,1 +1,6 @@
 # Classifiers-trained-for-mineral-identification
+
+
+- Code folgt in Kürze ... 
+
+- to be continued ...
